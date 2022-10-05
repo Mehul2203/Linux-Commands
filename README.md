@@ -1,4 +1,4 @@
-<img src="logo.png"  width="600" height="200">
+![](logo.png)
 
 # Linux Operating System   
     + Open Source operating system.    
