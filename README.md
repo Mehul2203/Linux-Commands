@@ -1,2 +1,1 @@
-# Linux 
-![](logo.png)
+![](logo.png=100*20)
