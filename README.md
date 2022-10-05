@@ -1,1 +1,1 @@
-![](logo.png, height=20)
+![](logo.png)
