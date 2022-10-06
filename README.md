@@ -27,10 +27,10 @@ exit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 
    
 ### File System    
- File system is similar to any other operating system. 
-     + Folders are called as directories, sub-folders as sub-directories.    
-     + "." represents current directory.
-     + ".." represents parent directory or parent.
-     + Absolute Path: starts from the root directory to the destination directory (complete/full path).
-     + Relative Path: Starts with the current working directory and gives a path for a location relative to the current working directory. Never starts with / (root) directory.    
+ File system is similar to any other operating system.    
+ + Folders are called as directories, sub-folders as sub-directories.         
+ + "." represents current directory.    
+ + ".." represents parent directory or parent.     
+ + Absolute Path: starts from the root directory to the destination directory (complete/full path).      
+ + Relative Path: Starts with the current working directory and gives a path for a location relative to the current working directory. Never starts with / (root) directory.      
      
