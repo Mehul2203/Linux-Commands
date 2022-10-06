@@ -15,5 +15,6 @@ A terminal is a program (text-based interface) used to interact with the compute
 
 ---   
 
-## COMMANDS    
-
+### COMMANDS    
+  
+#### Simple Commands  
