@@ -16,6 +16,6 @@ A terminal is a program (text-based interface) used to interact with the compute
 ---   
 
 ### Simple Commands    
-date          &nbsp; [gives the current date and time]     
+date          &nbsp; &nbsp; &nbsp; &nbsp;  [gives the current date and time]     
 cal            [calendar of the current month]    
 cal -y         [calendar of the current year (all months)] 
