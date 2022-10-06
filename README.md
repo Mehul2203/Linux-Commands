@@ -11,4 +11,9 @@
 + The command line is case-sensetive.    
 
 + **What is a terminal?**    
-A terminal is a program (text-based interface) used to interact with the computer system. 
+A terminal is a program (text-based interface) used to interact with the computer system.      
+
+---   
+
+## COMMANDS    
+
