@@ -9,3 +9,6 @@
 + The source code is open to all developers and users, publicly visible and editable. 
 + Easy modification and redistribution.
 + The command line is case-sensetive.    
+
++ **What is a terminal?**    
+A terminal is a program (text-based interface) used to interact with the computer system. 
