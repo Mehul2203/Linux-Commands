@@ -15,7 +15,7 @@ A terminal is a program (text-based interface) used to interact with the compute
 
 ---   
 
-### Simple Commands    
+## Simple Commands    
 date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the current date and time    
 cal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> calendar of the current month       
 cal -y &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> calendar of the current year (all of the 12 months)    
@@ -26,7 +26,10 @@ clear &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs
 exit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> exits the terminal (closes the terminal)    
 
    
-### File System    
+## File System       
+
+<img src="file_structure.png"  width="600" height="200">      
+
  File system is similar to any other operating system.    
  + Folders are called as directories, sub-folders as sub-directories.         
  + "." represents current directory.    
