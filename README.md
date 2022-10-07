@@ -44,7 +44,7 @@ A terminal is a program (text-based interface) used to interact with the compute
  + "*" means multiple files.   
 
        
-#### Commands   
+### *Commands*   
   
 **pwd** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Print working directory (absolute path)       
 **ls** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Lists all of the directories inside current working directory      
