@@ -4,6 +4,6 @@
 + Commands are given with their description of usage and how they work/outputs.     
 + If you have any concerns or suggestions, email me at [mehulbhargava22@gmail.com](mehulbhargava22@gmail.com).       
 + The content in this repository is learned from the Udemy Online Course - Linux Command Line Basics - [link to the course.](https://www.udemy.com/course/linux-command-line-volume1/)       
-+ ©️ The repository has a Copyright - [link](https://github.com/Mehul2203/Linux-Commands/blob/main/LICENSE)
++ ©️ This repository has a Copyright - [link](https://github.com/Mehul2203/Linux-Commands/blob/main/LICENSE)
 + Thanks for visiting my repository, hope it helps you! 🎇
 
