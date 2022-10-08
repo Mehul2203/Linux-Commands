@@ -1,4 +1,4 @@
-<img src="logo.png"  width="600" height="200">    
+<img src="data/logo.png"  width="600" height="200">    
   
 
 # Linux Operating System    
@@ -34,7 +34,7 @@ A terminal is a program (text-based interface) used to interact with the compute
    
 ## File System       
 
-<img src="file_structure.png"  width="600" height="200">      
+<img src="data/file_structure.png"  width="600" height="200">      
 
  File system is similar to any other operating system.    
  + Folders are called as directories, sub-folders as sub-directories.         
