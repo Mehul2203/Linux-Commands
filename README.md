@@ -119,7 +119,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **touch dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> As we know, touch is only used for creating files, but we can use it to change the time stamp of the directories. It gives a recent/current time stamp to them.       
      
 **mkdir dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a direcotry with the name dir1 in the current working directory.             
-**mkdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple directories with the name a, b, c, and d in the current working directory.            
+**mkdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple directories with the name a, b, c, and d in the current working directory.                
 
    
    
