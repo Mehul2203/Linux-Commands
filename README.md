@@ -16,7 +16,8 @@ A terminal is a program (text-based interface) used to interact with the compute
   
 + When we open the terminal, by default we are in the home directory.
 + "|" pipe operator can be used for multiple commands in one line.    
-+ ctrl + c is used to kill any command. In case the result is taking a long time or stuck in a loop.   
++ ctrl + c is used to kill any command. In case the result is taking a long time or stuck in a loop.      
++ We can use up arrow key and down arrow key for parsing through the previous commands one by one and use them. It's a shortcut and saves time.      
 
 ---   
 
@@ -169,9 +170,11 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
      
 + **Similarly we have 'gedit' command for this.**      
      
-**gedit file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the text file, also creates one if not existing already.     
+**gedit file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the text file, also creates one if not existing already.       
+## History Commands     
      
-  
+**history** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Gives the history of all of the commands used. Gives a list with index value (line number) for each of the commands.      
+**gedit file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the text file, also creates one if not existing already. 
      
 
 
