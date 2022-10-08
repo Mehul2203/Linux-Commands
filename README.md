@@ -179,8 +179,9 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **history -c** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> clears the history.         
     
     
-   ---
 ---
+---  
+©️ The repository has a Copyright - [link]()
     
     
       
