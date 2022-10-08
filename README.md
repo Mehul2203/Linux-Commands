@@ -185,7 +185,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **Happy learning!**    
 ---
 ---  
-©️ The repository has a Copyright - [link](https://github.com/Mehul2203/Linux-Commands/blob/main/LICENSE)
+©️ This repository has a Copyright - [link](https://github.com/Mehul2203/Linux-Commands/blob/main/LICENSE)
     
     
       
