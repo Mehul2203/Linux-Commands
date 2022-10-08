@@ -57,7 +57,7 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **cd -** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> takes to the previous directory      
 **cd .** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> It won't do anything. Because "." means current directory        
    
-## INode    
+## INode & Links
   
 + INODES are links for every file
 + Like and index
@@ -67,7 +67,14 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
     + Just like a shortcut in Windows.    
     + Pointer to the original file.
     + Inode is different from the original file.
-    + Size is less than the original file.       
+    + Size is less than the original file.         
++ **Soft Link**    
+    + Different name of the same file.
+    + Copy of the original file.
+    + Inode is same as the original file.
+    + Size is same as the original file.        
+       
+       
     
 
 
