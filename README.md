@@ -108,7 +108,9 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **ls -ali** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the current directory with inode number, hidden files, and long listing. Combined three types of commands. Also, ls -lia, ls -ail, ls -i -l -a and other ways will do the same.         
      
 **ls -lt, ls -ltr, ls -latR** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> some more combinations.   
-
+      
+## Commands for Working with Files
+**ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory  
 
 
          
