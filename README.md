@@ -135,16 +135,29 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **rm -Ri dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> asks for a confirmation for all of the files inside a directory. y/n              
 **rm -f file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Forcefully deletes a file, even if it doesn't exists. Opposite to the -i option.         
 **rm -Rf dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Forcefully deletes all of the files inside a directory.      
-**rm -Rv dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> deletes and gives a summary of what it did. 'v' stands for verbose.      
+**rm -Rv dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> deletes and gives a summary of what it does. 'v' stands for verbose.      
        
 ### *Copying Files/Directories Commands*        
     
 **cp file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 to file2 (file1-existing file, file2-new file). If the new file is already existing then it updates it.      
 **cp file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1.     
 **cp -R dir1 dir2**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies dir1 to the directory di2.        
-**cp -i file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ->      
+**cp -i file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1 and asks for confirmation - interactive.         
+**cp -v file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1 and gives summary of what it does - verbose.     
+          
+### *Moving Files/Directories Commands*           
+   
++ **'mv' stands for move.**     
++ **It's cut and paste.**
++ **It is also used for renaming files and directories.**      
+      
+**mv f1 f2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> renamed f1 to f2.    
+**mv f1 .f1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> hides file f1. As discussed previously, '.' before a file name hides it.      
+**mv .f1 f1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> unhides or brings the file back.        
+**mv .f1 f1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> unhides or brings the file back.    
 
 
+        
    
    
 
