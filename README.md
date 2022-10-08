@@ -48,7 +48,7 @@ A terminal is a program (text-based interface) used to interact with the compute
  + Any file whose name starts with a "." is a hidden file. For example: .mehuls_hidden
 
        
-### *Commands*   
+### #️⃣ *File System Simple Commands*   
   
 **pwd** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Print working directory (absolute path)       
 **ls** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Lists all of the directories inside current working directory      
@@ -79,7 +79,7 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
     + Inode is same as the original file.
     + Size is same as the original file.          
      
-### *Commands for Creating Links*   
+### #️⃣ *Commands for Creating Links*   
 **ln original1 hardlink1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates hard link file called as hardlink1 for the original file called as original1.    
     
 **ln -s original1 softlink1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates soft link file called as softlink1 for the original file called as original1.   
@@ -124,7 +124,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **mkdir dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a direcotry with the name dir1 in the current working directory.             
 **mkdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple directories with the name a, b, c, and d in the current working directory.          
        
-### *Removing Files/Directories Commands*         
+### #️⃣ *Removing Files/Directories Commands*         
 
 **rmdir a** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes directory a. Only removes directories and they should be empty.     
 **rmdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes multiple directories.     
@@ -139,7 +139,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **rm -Rf dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Forcefully deletes all of the files inside a directory.      
 **rm -Rv dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> deletes and gives a summary of what it does. 'v' stands for verbose.      
        
-### *Copying Files/Directories Commands*        
+### #️⃣ *Copying Files/Directories Commands*        
     
 **cp file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 to file2 (file1-existing file, file2-new file). If the new file is already existing then it updates it.      
 **cp file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1.     
@@ -147,7 +147,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **cp -i file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1 and asks for confirmation - interactive.         
 **cp -v file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1 and gives summary of what it does - verbose.     
           
-### *Moving Files/Directories Commands*           
+### #️⃣ *Moving Files/Directories Commands*           
    
 + **'mv' stands for move.**     
 + **It's cut and paste.**
