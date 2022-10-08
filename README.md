@@ -131,13 +131,20 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **rm -R dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes the directory dir1 (which is non-empty). Here, R is used as we discussed before, it stands for recursive. Even if the directory is empty we have to use the -R option to remove it.        
       
 **rm -R dir1 file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> deletes both a file and a directory.     
-**rm -i file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> asks for a confirmation to delete the file. y/n         
+**rm -i file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> asks for a confirmation to delete the file. y/n - interactive   
 **rm -Ri dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> asks for a confirmation for all of the files inside a directory. y/n              
 **rm -f file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Forcefully deletes a file, even if it doesn't exists. Opposite to the -i option.         
 **rm -Rf dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Forcefully deletes all of the files inside a directory.      
 **rm -Rv dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> deletes and gives a summary of what it did. 'v' stands for verbose.      
-   
-   
+       
+### *Copying Files/Directories Commands*        
+    
+**cp file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 to file2 (file1-existing file, file2-new file). If the new file is already existing then it updates it.      
+**cp file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies file1 and file2 to the directory dir1.     
+**cp -R dir1 dir2**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> copies dir1 to the directory di2.        
+**cp -i file1 file2 dir1**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ->      
+
+
    
    
 
