@@ -5,7 +5,7 @@
   
    
 ---
-+ Open Source operating system.    
++ Open source operating system.    
 + The source code is open to all developers and users, publicly visible and editable. 
 + Easy modification and redistribution.
 + The command line is case-sensetive.    
