@@ -113,8 +113,10 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
    
 + **touch command is for files**       
 + **mkdir command is for directories**       
-
-**** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory  
+          
+**touch file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates file with the name file1 in the current working directory.    
+   
+   
 
 
          
