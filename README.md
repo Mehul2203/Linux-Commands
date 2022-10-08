@@ -179,6 +179,9 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **history -c** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> clears the history.         
     
     
+---   
+**That's all for now. I'll keep updating and adding new commands.**     
+**Happy learning!**    
 ---
 ---  
 ©️ The repository has a Copyright - [link](https://github.com/Mehul2203/Linux-Commands/blob/main/LICENSE)
