@@ -3,6 +3,6 @@
 + There is some theoretical part before each of the topics along with some tips and shortcuts.    
 + Commands are given with their description of usage and how they work/outputs.     
 + If you have any concerns or suggestions, email me at [mehulbhargava22@gmail.com](mehulbhargava22@gmail.com).       
-+ The content in this repository is learned from the Udemy Online Course - Linux Command Line Basics [link.](https://www.udemy.com/course/linux-command-line-volume1/)
++ The content in this repository is learned from the Udemy Online Course - Linux Command Line Basics - [link to the course.](https://www.udemy.com/course/linux-command-line-volume1/)     
 + Thanks for visiting my repository, hope it helps you! 🎇
 
