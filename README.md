@@ -63,7 +63,12 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 + Like and index
 + It contains information
 + There are two types of  links in Linux: Soft link and Hard link.  
-+ **Soft Link**  
++ **Soft Link**    
+    + Just like a shortcut in Windows.    
+    + Pointer to the original file.
+    + Inode is different from the original file.
+    + Size is less than the original file.       
+    
 
 
 
