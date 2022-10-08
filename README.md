@@ -111,10 +111,17 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
       
 ## Commands for Working with Files     
    
-+ **touch command is for files**       
-+ **mkdir command is for directories**       
++ **touch command is for creating files**       
++ **mkdir command is for creating directories**       
           
-**touch file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates file with the name file1 in the current working directory.    
+**touch file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a file with the name file1 in the current working directory.    
+**touch file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple files with the name file1 and file2 in the current working directory.         
+**touch dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> As we know, touch is only used for creating files, but we can use it to change the time stamp of the directories. It gives a recent/current time stamp to them.       
+     
+**mkdir dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a direcotry with the name dir1 in the current working directory.             
+**mkdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple directories with the name a, b, c, and d in the current working directory.            
+
+   
    
    
 
