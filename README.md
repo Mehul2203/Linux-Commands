@@ -115,13 +115,22 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 + **mkdir command is for creating directories**       
           
 **touch file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a file with the name file1 in the current working directory.    
-**touch file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple files with the name file1 and file2 in the current working directory.         
+**touch file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple files with the name file1 and file2 in the current working directory.               
+**touch dir/file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creating a file inside a directory.     
 **touch dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> As we know, touch is only used for creating files, but we can use it to change the time stamp of the directories. It gives a recent/current time stamp to them.       
      
 **mkdir dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates a direcotry with the name dir1 in the current working directory.             
 **mkdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates multiple directories with the name a, b, c, and d in the current working directory.          
+       
+### *Removing Files/Directories Commands*         
+
 **rmdir a** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes directory a. Only removes directories and they should be empty.     
-**rmdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes multiple directories.      
+**rmdir a b c d** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes multiple directories.     
+**rm file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes file file1. 'rm' stands for remove.      
+**rm file1 file2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes multiple files.     
+**rm -R dir1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> removes the directory dir1 (which is non-empty). Here, R is used as we discussed before, it stands for recursive.      
+     
+     
 
  
    
