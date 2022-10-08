@@ -59,7 +59,7 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
    
 ## INode    
   
-+ Links for every file
++ INODES are links for every file
 + Like and index
 + It contains information
 + There are two types of  links in Linux: Soft link and Hard link.  
