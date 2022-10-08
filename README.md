@@ -1,7 +1,7 @@
 <img src="data/logo.png"  width="600" height="200">    
   
 
-# Linux Operating System    
+# Linux Operating System  🐧
   
    
 ---
@@ -21,7 +21,7 @@ A terminal is a program (text-based interface) used to interact with the compute
 
 ---   
 
-## Simple Commands    
+## 🐾 Simple Commands   
 **date** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the current date and time    
 **cal** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> calendar of the current month       
 **cal -y** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> calendar of the current year (all of the 12 months)    
@@ -32,7 +32,7 @@ A terminal is a program (text-based interface) used to interact with the compute
 **exit** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> exits the terminal (closes the terminal)    
 
    
-## File System       
+## 🐾 File System       
 
 <img src="data/file_structure.png"  width="600" height="200">      
 
@@ -62,7 +62,7 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **cd -** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> takes to the previous directory      
 **cd .** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -> It won't do anything. Because "." means current directory        
    
-## INode & Links
+## 🐾 INode & Links   
   
 + INODES are links for every file
 + Like and index
@@ -79,13 +79,13 @@ cd ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
     + Inode is same as the original file.
     + Size is same as the original file.          
      
-## Commands for Creating Links   
+### *Commands for Creating Links*   
 **ln original1 hardlink1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates hard link file called as hardlink1 for the original file called as original1.    
     
 **ln -s original1 softlink1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> creates soft link file called as softlink1 for the original file called as original1.   
     
  
-## LS Command Options     
+## 🐾 LS Command Options     
 **ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory  
 ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the home directory      
 **ls ..** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the parent directory        
@@ -110,7 +110,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
      
 **ls -lt, ls -ltr, ls -latR** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> some more combinations.   
       
-## Commands for Working with Files     
+## 🐾 Commands for Working with Files     
    
 + **touch command is for creating files**       
 + **mkdir command is for creating directories**         
@@ -162,7 +162,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **mv d1 d2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> now moves d1 to d2.       
 **mv -i f1 d1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> interactive.          
       
-## Viewing and Editing Files          
+## 🐾 Viewing and Editing Files          
     
 + **NANO - command line text editor.**    
  
@@ -171,7 +171,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 + **Similarly we have 'gedit' command for this.**      
      
 **gedit file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the text file, also creates one if not existing already.       
-## History Commands     
+## 🐾 History Commands     
      
 **history** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> Gives the history of all of the commands used. Gives a list with index value (line number) for each of the commands.      
 **!1207** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> 1207 is the line number/index and it runs the command on that index/line number.      
