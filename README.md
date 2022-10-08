@@ -160,8 +160,19 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **mv d1 d2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> renames d1 to d2.      
 **mv d1 d2** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> now moves d1 to d2.       
 **mv -i f1 d1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> interactive.          
+      
+## Viewing and Editing Files          
+    
++ **NANO - command line text editor.**    
+ 
+**nano file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the file file1 and the instructions for editing, closing, etc. functionalities are given at the bottom of the terminal window. They are enabled by pressing ctrl + <different alphabets for different functionalities as mentioned>. If the file doesn't exists, then this command creates one.       
+     
++ **Similarly we have 'gedit' command for this.**      
+     
+**gedit file1** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> opens the text file, also creates one if not existing already.     
+     
   
-
+     
 
 
         
