@@ -3,5 +3,5 @@
 + There is some theoretical part before each of the topics along with some tips and shortcuts.    
 + Commands are given with their description of usage and how they work/outputs.     
 + If you have any concerns or suggestions, email me at [mehulbhargava22@gmail.com](mehulbhargava22@gmail.com).      
-+ Thanks for visiting my repository, hope it helps you!
++ Thanks for visiting my repository, hope it helps you! 🎇
 
