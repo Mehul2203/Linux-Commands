@@ -15,7 +15,9 @@
 A terminal is a program (text-based interface) used to interact with the computer system.      
   
 + When we open the terminal, by default we are in the home directory.
-+ "|" pipe operator can be used for multiple commands in one line. 
++ "|" pipe operator can be used for multiple commands in one line.    
++ ctrl + c is used to kill any command. In case the result is taking a long time or stuck in a loop.   
+
 ---   
 
 ## Simple Commands    
@@ -87,7 +89,7 @@ ls ~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 **ls -a** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the current directory, including ., .., all files, folders and the hidden files. "a" here stands for all.    
 **ls -t** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the current directory ordered by the time stamp of the date and time of creation/modification (recent one first). T here stands for time.    
 **ls -r** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the current directory in reverse order of the time stamp. This is just opposite to the ls -t command. Here r stands for reverse.   
-**ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory
+**ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory    
 **ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory    
 **ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory  
 **ls /** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -> gives the contents of the root directory    
